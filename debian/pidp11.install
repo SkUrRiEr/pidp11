@@ -1,0 +1,3 @@
+./bin/* ./opt/pidp11/bin/
+./etc/* ./opt/pidp11/etc/
+./src/* ./opt/pidp11/src/

@@ -1,0 +1,9 @@
+pidp11 for Debian
+----------------
+
+This is a hacked package to install the pidp11 software almost identically to
+how Oscar's install script did.
+
+This is not a full Debianisation yet.
+
+ -- Julian Calaby <julian.calaby@gmail.com>  Thu, 29 Nov 2018 20:17:54 +1100

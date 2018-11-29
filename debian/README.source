@@ -1,0 +1,7 @@
+pidp11 for Debian
+----------------
+
+This package currently includes the full source due to the git repository
+effectively being a snapshot of a development workspace.
+
+ -- Julian Calaby <julian.calaby@gmail.com>  Thu, 29 Nov 2018 20:17:54 +1100
